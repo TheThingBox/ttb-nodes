@@ -2,7 +2,7 @@
     "name": "ttb-nodes",
     "version": "0.1.0",
     "dependencies": {
-        "axios": "0.19.0",
+        "axios": "1.6.0",
         "cli-spinner": "0.2.10",
         "latest-version": "5.1.0",
         "parse-github-repo-url": "1.4.1",
